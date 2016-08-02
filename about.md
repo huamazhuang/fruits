@@ -1,15 +1,15 @@
 ---
 layout: page
-title: 关于花马庄果园
+title: About
 permalink: /about/
 ---
 
-花马庄果园位于风景秀丽的中国江苏徐州北郊花马庄，南依凤凰山，北毗微山湖，具有肥沃的山田和平原地，果园主要种植水果有各种早熟、晚熟苹果品种，夏黑葡萄，红皮石榴，油桃和常规桃类，杏等。
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
+You can find the source code for the Jekyll new theme at:
+{% include icon-github.html username="jglovier" %} /
+[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-当前季节（8月）主要上市为夏黑葡萄和早熟嘎啦苹果。欢迎莅临品尝，花马庄果园微店将稍后上线。
-
------
-
-关注公众号：花马庄果园 (huamazhuang_fruits)
-![花马庄果园微信公众号](/images/huamazhuang_fruits_weixin-qr.jpeg) 
+You can find the source code for Jekyll at
+{% include icon-github.html username="jekyll" %} /
+[jekyll](https://github.com/jekyll/jekyll)
