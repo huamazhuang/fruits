@@ -13,3 +13,4 @@ permalink: /about/
 
 关注公众号：花马庄果园 (huamazhuang_fruits)
 ![花马庄果园微信公众号](/images/huamazhuang_fruits_weixin-qr.jpeg) 
+![](/images/grape-20160801-00003.jpg)
